@@ -1,98 +1,87 @@
-<h1 align="center">Tarang Gupta</h1>
+<h1 align="center">T&nbsp;A&nbsp;R&nbsp;A&nbsp;N&nbsp;G&nbsp;&nbsp;&nbsp;G&nbsp;U&nbsp;P&nbsp;T&nbsp;A</h1>
 
 <p align="center">
-  <a href="https://github.com/tarang802">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+ship+things+people+actually+use" alt="Typing SVG" />
-  </a>
+  <em>Full-Stack Developer</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarang802&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <code>React</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>Node.js</code> &nbsp;·&nbsp; <code>PostgreSQL</code>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarang-gupta-9b7b27322/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:taranggupta2802@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  &nbsp;
+  <a href="https://twitter.com/tarangg802"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat-square&logo=x&logoColor=FFFFFF" alt="Twitter" /></a>
+  &nbsp;
+  <a href="https://github.com/tarang802"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+</p>
+
+<br />
 
 ---
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=tarang802&show_icons=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="stats" />
+<br />
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tarang802&show_icons=true&hide_border=true&hide_title=true&hide=issues&icon_color=58A6FF&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="GitHub stats" />
 
 ### About
 
-- CSE undergrad at **VIT Chennai**, class of 2028
-- **Projects Head** — Microsoft Innovations Club
-- **Joint Secretary** — Newton School Coding Club
-- Freelance full-stack: schema design through production deploy
-- Into **retrieval systems, FastAPI and containerised deployment**
-- Open to full-stack internships and freelance work
+Computer Science undergraduate at **VIT Chennai**, building web platforms that go
+to production and stay there.
 
-<br clear="right"/>
+**Projects Head** at the Microsoft Innovations Club and **Joint Secretary** at the
+Newton School Coding Club, where I own the engineering side of the club's web
+presence and run workshops for juniors shipping their first project.
+
+Freelance work spans the whole delivery: schema design, API and service logic,
+frontend, deploy.
+
+<br clear="right" />
+
+<br />
 
 ---
+
+<br />
 
 ### Stack
 
-**Languages**
+|  |  |
+|---|---|
+| **Languages** | <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00" /> <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" /> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" /> |
+| **Data** | <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3FCF8E" /> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" /> |
+| **Infra** | <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" /> |
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-**Data**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br />
 
 ---
 
-### Activity
+<br />
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarang802&layout=compact&hide_border=true&langs_count=8&title_color=0e75b6" alt="top languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarang802&hide_border=true&color=0e75b6&line=0e75b6&point=ffffff&area=true" alt="activity graph" />
-</p>
+### Currently
+
+- Going deeper into retrieval systems, FastAPI and containerised deployment
+- Reading more about database internals than is strictly good for me
+- Open to full-stack internships and freelance work
+
+<br />
+
+<details>
+<summary><b>Languages I actually push</b></summary>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarang802&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="Top languages" />
+</details>
+
+<br />
 
 ---
 
-### Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:taranggupta2802@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/tarangg802"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/tarang802"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarang-gupta-9b7b27322/"><sub>LinkedIn</sub></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:taranggupta2802@gmail.com"><sub>taranggupta2802@gmail.com</sub></a>
 </p>
