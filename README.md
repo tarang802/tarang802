@@ -24,21 +24,26 @@
 
 <br />
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=tarang802&show_icons=true&hide_border=true&hide_title=true&hide=issues&icon_color=58A6FF&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="GitHub stats" />
-
 ### About
 
-Computer Science undergraduate at **VIT Chennai**, building web platforms that go
-to production and stay there.
+Computer Science undergraduate at **VIT Chennai**, building web platforms that go to
+production and stay there.
 
 **Projects Head** at the Microsoft Innovations Club and **Joint Secretary** at the
-Newton School Coding Club, where I own the engineering side of the club's web
-presence and run workshops for juniors shipping their first project.
+Newton School Coding Club — I own the engineering side of the club's web presence and
+run workshops for juniors shipping their first project.
 
 Freelance work spans the whole delivery: schema design, API and service logic,
 frontend, deploy.
 
-<br clear="right" />
+<br />
+
+|  |  |
+|---|---|
+| **Focus** | Full-stack web, production delivery |
+| **Learning** | Retrieval systems, FastAPI, containerised deployment |
+| **Based in** | Chennai, India |
+| **Open to** | Internships · Freelance |
 
 <br />
 
@@ -61,24 +66,6 @@ frontend, deploy.
 ---
 
 <br />
-
-### Currently
-
-- Going deeper into retrieval systems, FastAPI and containerised deployment
-- Reading more about database internals than is strictly good for me
-- Open to full-stack internships and freelance work
-
-<br />
-
-<details>
-<summary><b>Languages I actually push</b></summary>
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarang802&layout=compact&hide_border=true&langs_count=8&title_color=58A6FF&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="Top languages" />
-</details>
-
-<br />
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarang-gupta-9b7b27322/"><sub>LinkedIn</sub></a>
