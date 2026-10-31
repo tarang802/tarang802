@@ -1,33 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 284" width="560" height="284" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" width="560" height="340" role="img" aria-labelledby="t d">
 <title id="t">Terminal: tarang@dev</title>
-<desc id="d">whoami: Tarang Gupta, CS undergrad at VIT Chennai. focus: backend engineering, web systems; learning distributed systems and observability. status: open to internships and freelance.</desc>
+<desc id="d">whoami: tarang gupta. identity: cs undergrad at vit chennai. focus: backend, web systems. learning: distributed systems, observability. stack: typescript, python, sql, react, node. status: open to internships and freelance.</desc>
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:16px}
-.p{fill:#e3b341}
-.c{fill:#e6edf3}
-.o{fill:#9aa4af}
-.cur{fill:#e3b341;animation:blink 1.2s steps(1) infinite}
+.g{fill:#2ee6a6}
+.v{fill:#b9cfc6}
+.cur{fill:#2ee6a6;animation:blink 1.2s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 @media (prefers-reduced-motion:reduce){.cur{animation:none}}
 </style>
-<rect x="0.5" y="0.5" width="559" height="283" rx="10" fill="#0d1117" stroke="#30363d"/>
-<path d="M1 40 V11 a10 10 0 0 1 10 -10 H549 a10 10 0 0 1 10 10 V40 z" fill="#161b22"/>
-<path d="M1 40.5 H559" stroke="#30363d" fill="none"/>
-<circle cx="24" cy="21" r="5.5" fill="#484f58"/>
-<circle cx="44" cy="21" r="5.5" fill="#484f58"/>
-<circle cx="64" cy="21" r="5.5" fill="#484f58"/>
-<text x="280" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">tarang@dev: ~</text>
+<rect x="0.5" y="0.5" width="559" height="339" rx="10" fill="#050807" stroke="#1d3a31"/>
+<path d="M1 40 V11 a10 10 0 0 1 10 -10 H549 a10 10 0 0 1 10 10 V40 z" fill="#0c1110"/>
+<path d="M1 40.5 H559" stroke="#1d2a26" fill="none"/>
+<circle cx="24" cy="21" r="5.5" fill="#e5534b"/>
+<circle cx="44" cy="21" r="5.5" fill="#d9a62e"/>
+<circle cx="64" cy="21" r="5.5" fill="#2ee6a6"/>
+<text x="280" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7f9a90">tarang@dev: ~</text>
+<g fill="#2ee6a6"><rect x="520" y="15" width="4" height="12" rx="1"/><rect x="528" y="15" width="4" height="12" rx="1"/><rect x="536" y="15" width="4" height="12" rx="1"/></g>
 
-<text class="m" x="24" y="76"><tspan class="p">$</tspan><tspan class="c" dx="10">whoami</tspan></text>
-<text class="m o" x="44" y="100">Tarang Gupta · CS undergrad, VIT Chennai</text>
+<text class="m g" x="24" y="76">&gt; whoami</text>
+<text class="m v" x="44" y="102">tarang gupta</text>
 
-<text class="m" x="24" y="130"><tspan class="p">$</tspan><tspan class="c" dx="10">focus</tspan></text>
-<text class="m o" x="44" y="154">backend engineering, web systems</text>
-<text class="m o" x="44" y="178">learning distributed systems, observability</text>
+<text class="m g" x="24" y="128">&gt; loading profile...</text>
+<text class="m g" x="44" y="154">[</text>
+<rect x="56" y="142" width="160" height="14" fill="#2ee6a6"/>
+<text class="m g" x="224" y="154">]</text>
+<text class="m g" x="244" y="154">100%</text>
 
-<text class="m" x="24" y="208"><tspan class="p">$</tspan><tspan class="c" dx="10">status</tspan></text>
-<text class="m o" x="44" y="232">open to internships and freelance</text>
+<text class="m" x="24" y="180"><tspan class="g">&gt; identity:</tspan><tspan class="v" dx="10">cs undergrad @ vit chennai</tspan></text>
+<text class="m" x="24" y="206"><tspan class="g">&gt; focus:</tspan><tspan class="v" dx="10">[backend, web_systems]</tspan></text>
+<text class="m" x="24" y="232"><tspan class="g">&gt; learning:</tspan><tspan class="v" dx="10">[distributed_systems, observability]</tspan></text>
+<text class="m" x="24" y="258"><tspan class="g">&gt; stack:</tspan><tspan class="v" dx="10">[typescript, python, sql, react]</tspan></text>
+<text class="m" x="24" y="284"><tspan class="g">&gt; status:</tspan><tspan class="v" dx="10">open to internships + freelance</tspan></text>
 
-<text class="m p" x="24" y="262">$</text>
-<rect class="cur" x="44" y="249" width="9" height="17"/>
+<text class="m g" x="24" y="316">tarang@dev:~$</text>
+<rect class="cur" x="158" y="303" width="9" height="17"/>
 </svg>
