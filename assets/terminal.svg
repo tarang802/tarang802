@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 284" width="560" height="284" role="img" aria-labelledby="t d">
+<title id="t">Terminal: tarang@dev</title>
+<desc id="d">whoami: Tarang Gupta, CS undergrad at VIT Chennai. focus: backend engineering, web systems; learning distributed systems and observability. status: open to internships and freelance.</desc>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:16px}
+.p{fill:#e3b341}
+.c{fill:#e6edf3}
+.o{fill:#9aa4af}
+.cur{fill:#e3b341;animation:blink 1.2s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="559" height="283" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 40 V11 a10 10 0 0 1 10 -10 H549 a10 10 0 0 1 10 10 V40 z" fill="#161b22"/>
+<path d="M1 40.5 H559" stroke="#30363d" fill="none"/>
+<circle cx="24" cy="21" r="5.5" fill="#484f58"/>
+<circle cx="44" cy="21" r="5.5" fill="#484f58"/>
+<circle cx="64" cy="21" r="5.5" fill="#484f58"/>
+<text x="280" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">tarang@dev: ~</text>
+
+<text class="m" x="24" y="76"><tspan class="p">$</tspan><tspan class="c" dx="10">whoami</tspan></text>
+<text class="m o" x="44" y="100">Tarang Gupta · CS undergrad, VIT Chennai</text>
+
+<text class="m" x="24" y="130"><tspan class="p">$</tspan><tspan class="c" dx="10">focus</tspan></text>
+<text class="m o" x="44" y="154">backend engineering, web systems</text>
+<text class="m o" x="44" y="178">learning distributed systems, observability</text>
+
+<text class="m" x="24" y="208"><tspan class="p">$</tspan><tspan class="c" dx="10">status</tspan></text>
+<text class="m o" x="44" y="232">open to internships and freelance</text>
+
+<text class="m p" x="24" y="262">$</text>
+<rect class="cur" x="44" y="249" width="9" height="17"/>
+</svg>
