@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="540" viewBox="0 0 830 540" role="img" aria-labelledby="t d">
+<title id="t">How I work</title>
+<desc id="d">Make the dangerous mistake loud. A query that forgets its tenant should crash in testing, not leak data later. See ShopOS: apps/api/src/db/plugins/tenantGuard.ts. Write the caveat next to the code. The comment on withTransaction says outright when it silently stops being atomic. See ShopOS: apps/api/src/db/transaction.ts. Let the model read and let code decide. The model interprets requests. Measurements come from code, and edits are validated. See BeatAgent: beatagent/editing, DECISIONS.md. Test against the real database. Real migrations run in-process on PGlite, so the security policies get tested too. See The Bluff Club: tests/db. Say what a number was measured on. The BeatAgent README labels its target numbers as coming from synthetic clips. See BeatAgent: README.md, evals/results.</desc>
+<rect width="830" height="540" fill="#0E0F11"/>
+<text x="40" y="54" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="24" fill="#E8E4DA" letter-spacing="-0.3">Make the dangerous mistake loud.</text>
+<text x="40" y="82" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#C9C5BB">A query that forgets its tenant should crash in testing, not leak data later.</text>
+<text x="40" y="106" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">ShopOS: apps/api/src/db/plugins/tenantGuard.ts</text>
+<line x1="40" y1="120" x2="790" y2="120" stroke="#2B2E34" stroke-width="1" />
+<text x="40" y="154" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="24" fill="#E8E4DA" letter-spacing="-0.3">Write the caveat next to the code.</text>
+<text x="40" y="182" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#C9C5BB">The comment on withTransaction says outright when it silently stops being atomic.</text>
+<text x="40" y="206" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">ShopOS: apps/api/src/db/transaction.ts</text>
+<line x1="40" y1="220" x2="790" y2="220" stroke="#2B2E34" stroke-width="1" />
+<text x="40" y="254" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="24" fill="#E8E4DA" letter-spacing="-0.3">Let the model read and let code decide.</text>
+<text x="40" y="282" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#C9C5BB">The model interprets requests. Measurements come from code, and edits are validated.</text>
+<text x="40" y="306" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">BeatAgent: beatagent/editing, DECISIONS.md</text>
+<line x1="40" y1="320" x2="790" y2="320" stroke="#2B2E34" stroke-width="1" />
+<text x="40" y="354" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="24" fill="#E8E4DA" letter-spacing="-0.3">Test against the real database.</text>
+<text x="40" y="382" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#C9C5BB">Real migrations run in-process on PGlite, so the security policies get tested too.</text>
+<text x="40" y="406" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">The Bluff Club: tests/db</text>
+<line x1="40" y1="420" x2="790" y2="420" stroke="#2B2E34" stroke-width="1" />
+<text x="40" y="454" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="24" fill="#E8E4DA" letter-spacing="-0.3">Say what a number was measured on.</text>
+<text x="40" y="482" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="15" fill="#C9C5BB">The BeatAgent README labels its target numbers as coming from synthetic clips.</text>
+<text x="40" y="506" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">BeatAgent: README.md, evals/results</text>
+</svg>

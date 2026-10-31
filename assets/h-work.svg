@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="72" viewBox="0 0 830 72" role="img" aria-labelledby="t d">
+<title id="t">Case files</title>
+<desc id="d">Section: Case files. each one lists what it does not cover</desc>
+<rect width="830" height="72" fill="#0E0F11"/>
+<rect x="40" y="22" width="4" height="30" fill="#6B8AFF"/>
+<text x="60" y="46" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="30" fill="#E8E4DA">Case files</text>
+<text x="790" y="46" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8E908B" text-anchor="end">each one lists what it does not cover</text>
+</svg>

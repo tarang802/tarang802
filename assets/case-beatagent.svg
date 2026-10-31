@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="632" viewBox="0 0 830 632" role="img" aria-labelledby="t d">
+<title id="t">SoundVerse BeatAgent</title>
+<desc id="d">SoundVerse BeatAgent. A chat agent for three audio jobs: align beats and sync two tracks, edit on a beat grid, and turn short loops into playable web pages. Mechanism: audio goes through Beat This! and a grid fit into a BeatGrid; a typed request goes to Gemini, which returns a plan that a validator checks before it edits the grid. Decision: the LLM only interprets text. On a synthetic 6-minute clip the worst beat error went from 377 ms to 1.92 ms. Limit: all numbers are from synthetic stand-ins, the official test pack was not provided, and sync on real music is unproven. Solo project, 105 commits, no public deployment.</desc>
+<rect width="830" height="632" fill="#0E0F11"/>
+<text x="38" y="82" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="38" fill="#E8E4DA" letter-spacing="-1">SoundVerse</text>
+<text x="38" y="124" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="38" fill="#E8E4DA" letter-spacing="-1">BeatAgent</text>
+<text x="40" y="170" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="16" fill="#C9C5BB">A chat agent for three audio</text>
+<text x="40" y="194" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="16" fill="#C9C5BB">jobs: align beats and sync two</text>
+<text x="40" y="218" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="16" fill="#C9C5BB">tracks, edit on a beat grid, and</text>
+<text x="40" y="242" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="16" fill="#C9C5BB">turn short loops into playable</text>
+<text x="40" y="266" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="16" fill="#C9C5BB">web pages.</text>
+<rect x="40.5" y="295.5" width="9" height="9" fill="none" stroke="#6B8AFF" stroke-width="1.5"/>
+<text x="60" y="304" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#E8E4DA">Solo project, 105 commits</text>
+<text x="60" y="324" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8E908B">Built for an engineering assignment</text>
+<text x="60" y="344" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#8E908B">No public deployment</text>
+<text x="396" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B">numbers come from signal processing</text>
+<rect x="396" y="66" width="100" height="46" fill="#15171A" stroke="#4A4D55" stroke-width="1"/>
+<text x="446.0" y="94" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#E8E4DA" text-anchor="middle">Audio</text>
+<rect x="543" y="66" width="100" height="46" fill="#15171A" stroke="#4A4D55" stroke-width="1"/>
+<text x="593.0" y="86" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">Beat This!</text>
+<text x="593.0" y="102" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">+ grid fit</text>
+<rect x="690" y="66" width="100" height="46" fill="#15171A" stroke="#6B8AFF" stroke-width="1.5"/>
+<text x="740.0" y="94" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#E8E4DA" text-anchor="middle">BeatGrid</text>
+<line x1="496" y1="89.0" x2="542" y2="89.0" stroke="#6B8AFF" stroke-width="1.5" />
+<polygon points="542,89.0 535.0,85.0 535.0,93.0" fill="#6B8AFF"/>
+<line x1="643" y1="89.0" x2="689" y2="89.0" stroke="#6B8AFF" stroke-width="1.5" />
+<polygon points="689,89.0 682.0,85.0 682.0,93.0" fill="#6B8AFF"/>
+<text x="396" y="168" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B">the model only interprets typed text</text>
+<rect x="396" y="184" width="92" height="46" fill="#15171A" stroke="#4A4D55" stroke-width="1"/>
+<text x="442.0" y="204" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">Typed</text>
+<text x="442.0" y="220" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">request</text>
+<rect x="522" y="184" width="92" height="46" fill="#15171A" stroke="#4A4D55" stroke-width="1"/>
+<text x="568.0" y="204" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">Gemini</text>
+<text x="568.0" y="220" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="13" fill="#E8E4DA" text-anchor="middle">plan</text>
+<rect x="648" y="184" width="92" height="46" fill="#15171A" stroke="#6B8AFF" stroke-width="1.5"/>
+<text x="694.0" y="212" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14" fill="#E8E4DA" text-anchor="middle">Validator</text>
+<line x1="488" y1="207.0" x2="521" y2="207.0" stroke="#6B8AFF" stroke-width="1.5" />
+<polygon points="521,207.0 514.0,203.0 514.0,211.0" fill="#6B8AFF"/>
+<line x1="614" y1="207.0" x2="647" y2="207.0" stroke="#6B8AFF" stroke-width="1.5" />
+<polygon points="647,207.0 640.0,203.0 640.0,211.0" fill="#6B8AFF"/>
+<line x1="740" y1="207.0" x2="740.0" y2="207.0" stroke="#6B8AFF" stroke-width="1.5" />
+<line x1="740.0" y1="207.0" x2="740.0" y2="113" stroke="#6B8AFF" stroke-width="1.5" />
+<polygon points="740.0,113 736.0,120.0 744.0,120.0" fill="#6B8AFF"/>
+<text x="694.0" y="252" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B" text-anchor="middle">checked before it</text>
+<text x="694.0" y="268" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B" text-anchor="middle">edits the grid</text>
+<text x="396" y="304" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B">BeatGrid feeds click export, two-track sync</text>
+<text x="396" y="321" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B">and an editing session with undo and redo</text>
+<line x1="40" y1="382" x2="790" y2="382" stroke="#2B2E34" stroke-width="1" />
+<text x="40" y="412" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">Decision</text>
+<text x="40" y="440" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">The LLM only interprets what the user</text>
+<text x="40" y="461" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">types. Beat times and notes come from</text>
+<text x="40" y="482" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">signal processing, and the model's plan</text>
+<text x="40" y="503" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">is validated before it edits the grid.</text>
+<text x="40" y="524" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">A grid fit on top of the beat tracker</text>
+<text x="40" y="545" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">took the worst beat on a synthetic</text>
+<text x="40" y="566" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">6-minute clip from 377 ms off to 1.92.</text>
+<text x="430" y="412" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6B8AFF">Limit</text>
+<text x="430" y="440" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">Every number comes from synthetic</text>
+<text x="430" y="461" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">stand-ins I generated; the official</text>
+<text x="430" y="482" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">test pack was not provided. Sync to</text>
+<text x="430" y="503" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">5 ms on real music is unproven, and</text>
+<text x="430" y="524" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">dense mixes are only partly</text>
+<text x="430" y="545" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="14.5" fill="#C9C5BB">transcribed. No public deployment.</text>
+<text x="40" y="604" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8E908B">Python 3.11, FastAPI, React, TypeScript, Gemini, Beat This!, Basic Pitch, Rubber Band, Docker</text>
+</svg>
